@@ -1,0 +1,16 @@
+I'm happy to share that I’ve successfully completed a comprehensive SQL & T-SQL course on Mahara Tech!
+
+Throughout this journey, I built a solid foundation in SQL and explored advanced T-SQL features that empower data manipulation and database management. Here's a quick overview of what I’ve learned:
+
+✅ Writing SQL queries to retrieve, filter, sort, and join data
+✅ Building and managing relational databases using T-SQL
+✅ Creating complex queries and subqueries across multiple tables
+✅ Using built-in SQL functions to manipulate data efficiently
+✅ Managing identity columns and understanding critical statements like DROP, DELETE, and TRUNCATE
+✅ Applying advanced T-SQL techniques including MERGE, window functions, ROLLUP, CUBE, PIVOT, and more
+✅ Designing Enhanced Entity-Relationship Diagrams (EERDs)
+✅ Managing user access within SQL Server environments
+
+This course was both challenging and rewarding, and I’m excited to bring these skills into real-world projects!
+
+📄 Certificate: https://maharatech.gov.eg/mod/customcert/view.php?id=17032&downloadown=1
